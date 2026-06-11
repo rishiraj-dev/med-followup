@@ -1,0 +1,10 @@
+[
+  {
+    "patient_id": "PT-1002",
+    "name": "Jane Roe",
+    "procedure": "Hip Surgery",
+    "assigned_doctor": "Dr. Adams",
+    "sip_address": "sip:patient@local:5060",
+    "days_post_op": 5
+  }
+]
